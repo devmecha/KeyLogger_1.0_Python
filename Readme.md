@@ -14,6 +14,6 @@ _Usage_
     ```
         python keyLogger.pyw
     ```
--    2. Follow the displayed instructions
+-    2. Check the Output File (txt)
 
 	
