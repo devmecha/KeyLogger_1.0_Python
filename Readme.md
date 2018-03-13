@@ -8,6 +8,9 @@ Find Me Here :
 - Web Site : www.devmecha.tk
 ----------------------------------------------------
 
+_Disclaimer_
+------------
+_" I am not promoting hacking or similar. Using this script for hacking and stealing purpose is strictly not recommended. This is provided for educational purposes. I am not responsible in case of any damage to you or anyone else by you."_
 
 _Usage_
 -    1. Execute the script 'keyLogger.pyw' :
